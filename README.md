@@ -57,7 +57,7 @@ I used X marks and shield icons to visually denote resistance mechanisms and the
 
 I typed the full title at the top as "Translational Adaptation in Breast Cancer Metastasis: Mechanisms, Environmental Challenges, and Therapeutic Implications". I formatted it in bold, large font. Each panel was labeled with a bold capital letter in parentheses: (A), (B), (C), (D), (E), placed in the top-left corner of each section with a short panel title beneath it. All biological components (ribosomes, eIFs, mRNA features) were labeled with small text callouts directly within the panels.
 
-**Step 10: Added the Figure Summary Caption**
+**Step 10: Adding the Figure Summary Caption**
 
 At the bottom of the canvas, I typed the summary caption as "This schematic summarizes how translational adaptation enables breast cancer cells to survive metastatic environmental stresses, focusing on the molecular mechanisms modifying mRNA translation and illustrating therapeutic opportunities arising from these insight".
 
