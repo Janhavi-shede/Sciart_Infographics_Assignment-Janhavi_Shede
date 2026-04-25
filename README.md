@@ -13,20 +13,20 @@ Before opening BioRender, I read the reserch paper and outlined the five concept
 *Panel D*— Regulatory layers and mRNA features,
 *Panel E*— Advanced technologies and therapeutic potential.
 
-**Step 3: Opened BioRender and Setting up the Canvas**
+**Step 3: Opening BioRender and Setting up the Canvas**
 
 I logged into BioRender (biorender.com) and created a new figure. I selected a landscape canvas to accommodate three panels side by side and remaining two panels bele them. I set the canvas dimensions to fit standard journal figure requirements (but it was later cropped to 'width' as *10* and 'height' as *5.70* to make the infogaphic more presentable).
 
 **Step 4: Building Panel A — Breast Cancer Metastatic Cascade**
 
-I searched BioRender's asset library for a primary brest tumor image (breast tissue cross-section), Cancer cells entering blood vessels (intravasation), Circulating tumor cells in the bloodstream, Cancer cells exiting the vasculature (extravasation), Cancer cells colonizing distant organs (lung, liver). 
+I searched BioRender's asset library for a primary breast tumor image (breast tissue cross-section), Cancer cells entering blood vessels (intravasation), Circulating tumor cells in the bloodstream, Cancer cells exiting the vasculature (extravasation), Cancer cells colonizing distant organs (lung, liver). 
 
 I arranged these assets left to right along a horizontal flow with labeles and arrows: 'Primary Tumor' → 'Intravasation' → 'Circulation' → 'Extravasation' → 'Colonization'. During the metastasis cascade — involving invasion, intravasation, circulation, extravasation, and colonization — cancer cells are subjected to environmental selection pressures that result in enrichment of cancer stem cells with high metabolic plasticity. I used this biological logic to decide the visual sequence.
 
 
 **Step 5: Building Panel B — Tumor Microenvironment (TME) Stressors**
 
-I placed a central cancer cell icon and surrounded it with the three major TME stressors from the paper: 'Hypoxia' — represented with an O₂ molecule in a cloud kind of shape with a downward arrow, 'Nutrient deprivation' — represented with a nutrient/metabolite molecule icon, 'Cytokines & immune response' — represented with immune cell images and cytokine signaling image. I drew arrows pointing inward toward the central cell to show that these stressors act on the cancer cell, triggering translational adaptation. I labeled each stressor clearly.
+I placed a central cancer cell icon and surrounded it with the three major TME stressors from the paper: 'Hypoxia' — represented with an O₂ molecule in a cloud kind of shape with a downward arrow, 'Nutrient deprivation' — represented with a nutrient/metabolite molecule icon, 'Cytokines & immune response' — represented with immune cell images and cytokine signaling image. I drew arrows pointing inward toward the central cell to show that these stressors act on the cancer cell, triggering translational adaptation. I labelled each stressor clearly.
 
 **Step 6: Building Panel C — Molecular Process of Translational Adaptation**
 
