@@ -65,6 +65,6 @@ At the bottom of the canvas, I typed the summary caption as "This schematic summ
 
 Throughout all panels, I applied a consistent color palette (pinks/reds for cancer cells, blues for ribosomes/mRNA, warm yellows/oranges for molecular components), Uniform icon sizes to maintain visual balance, thin directional arrows for process flows and a white background as a standard with subtle panel borders to separate sections.
 
-**Step 12: Exported the Final Infograph**
+**Step 12: Exporting the Final Infograph**
 
 Once I was satisfied with the layout and the final inphograph, I exported the figure from BioRender as a high-resolution PNG. BioRender automatically had added the "Created in BioRender.com" watermark at the bottom right, which is visible in the final image.
