@@ -7,11 +7,11 @@ I selected the primary reference paper "Translational Adaptation in Breast Cance
 **Step 2: Planning the Infographic Layout and Panels**
 
 Before opening BioRender, I read the reserch paper and outlined the five conceptual sections I wanted to visualize, based on the paper's major themes:
-*Panel A* — The breast cancer metastatic cascade
-*Panel B* — Tumor microenvironment (TME) stressors
-*Panel C*— The molecular process of translational adaptation
-*Panel D*— Regulatory layers and mRNA features
-*Panel E*— Advanced technologies and therapeutic potential
+*Panel A* — The breast cancer metastatic cascade,
+*Panel B* — Tumor microenvironment (TME) stressors,
+*Panel C*— The molecular process of translational adaptation,
+*Panel D*— Regulatory layers and mRNA features,
+*Panel E*— Advanced technologies and therapeutic potential.
 
 **Step 3: Opened BioRender and Setting up the Canvas**
 
